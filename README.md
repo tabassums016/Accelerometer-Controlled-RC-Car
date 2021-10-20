@@ -1,0 +1,2 @@
+# Accelerometer-Controlled-RC-Car
+This is an embedded systems project based on STM32F103C8 as a  microcontroller.  By accessing the accelerometer of an android ohone using an android application created, The motion of the RC car is controlled.  An HC05 bluetooth module is to communicate between the smartphone and STM32 microcontroller. To control the 4 DC motors by STM32, the L298N motor driver is used. 
